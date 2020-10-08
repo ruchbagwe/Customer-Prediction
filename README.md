@@ -23,5 +23,8 @@ Algorithms used
 8)SVM
 9)Neural Network
 
+
+
+
 Conclusion
 In this study, using ML we explored retail bank marketing data and shown that how it can be use to help the bank to conduct its marketing campaign
